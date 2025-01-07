@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "popis stolova projekt za ocjenu", "popis stolova projekt za ocjenu\popis stolova projekt za ocjenu.csproj", "{EBBAF326-DB2E-4665-B34E-8E61AD58DBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBBAF326-DB2E-4665-B34E-8E61AD58DBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBAF326-DB2E-4665-B34E-8E61AD58DBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBAF326-DB2E-4665-B34E-8E61AD58DBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBAF326-DB2E-4665-B34E-8E61AD58DBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
